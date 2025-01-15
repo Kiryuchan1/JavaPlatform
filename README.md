@@ -1,6 +1,6 @@
 # Repository for the Software Development on the Java Platform subject
 
-**Group**: IA-24
+**Group**: IA-24  
 **Author**: Kyrylo Humeniuk  
 
 
