@@ -123,5 +123,5 @@ List<MusicTrack> listRetain = new ArrayList<>(Arrays.asList(
                     new PopTrack("Blinding Lights", "The Weeknd", 200, true)
 ));
 ```
-It`s not recomended to add new objects since output may be wrong. 
+It`s not recomended to add new objects since output may be wrong.   
 And then run code  
